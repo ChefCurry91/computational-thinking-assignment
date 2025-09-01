@@ -20,7 +20,8 @@ Problem-Solving Approach
    * Built a dictionary to count the number of articles per week.
 5. Visualization
    * Created both a histogram (distribution of weekly frequencies) and a bar chart (weekly time series).
-The inventive step here was recognizing that publication dates could be translated into simple numbers, making the problem much easier to solve.
+
+The key insight was recognizing that publication dates could be translated into simple numbers, making the problem much easier to solve.
 
 Contents
 * news-articles-analysis.ipynb: main notebook with code and explanations
