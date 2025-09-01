@@ -8,7 +8,8 @@ The approach reflects how an applied economist would structure a problem:
 * Visualization → communicate results clearly
 
 It is not optimized for efficiency, but instead illustrates clear step-by-step logic and algorithmic thinking.
-Problem-Solving Approach
+
+#Problem-Solving Approach
 
 1. Pattern recognition
    * Used regular expressions to identify publication dates in the raw text.
